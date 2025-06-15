@@ -2,7 +2,7 @@
 
 **`Desenvolvedor PHP`**
 
-Me chamo Patrick Kobi, tenho 20 anos e sou natural do Rio de Janeiro. Sou formado em técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na ESTÁCIO. Sou apaixonada por tecnologia e inovação.
+Me chamo Patrick Kobi, tenho 20 anos e sou natural do Rio de Janeiro. Sou formado em técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na ESTÁCIO. Sou apaixonado por tecnologia e inovação.
 
 ### 🤖 Linguagens e Tecnologias
 
